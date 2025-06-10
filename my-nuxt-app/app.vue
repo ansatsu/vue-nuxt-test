@@ -1,7 +1,7 @@
 <template>
   <div>
-    <p>tjenis!</p>
     <NuxtRouteAnnouncer />
+    <NuxtWelcome />
     <NuxtWelcome />
   </div>
 </template>
